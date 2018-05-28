@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fbb2ec567d1622f48902dbf727340129
+timeCreated: 1527107518
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MyPlayer: {instanceID: 0}
+  - MyGirl: {instanceID: 0}
+  - GameCounter: {instanceID: 0}
+  - board: {instanceID: 0}
+  - life: {instanceID: 0}
+  - score: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
